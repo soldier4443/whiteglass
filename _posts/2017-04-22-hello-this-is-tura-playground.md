@@ -1,6 +1,7 @@
 ---
 title: "Tura의 github blog입니다!"
 layout: post
+categories: tura
 author: "tura"
 ---
 
