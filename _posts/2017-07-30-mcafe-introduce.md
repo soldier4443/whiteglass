@@ -19,4 +19,4 @@ author: "tura"
 ### 관련 자료
 
 
-[네이버 카페 접속하기]: []
+[네이버 카페 접속하기]: [http://cafe.naver.com/devfarm]
