@@ -27,12 +27,12 @@ author: "tura"
 - Genesis - Andrei Jikh
 
 
-[magicstream 사이트 접속하기]: [https://magicstream.com/]
+[magicstream 사이트 접속하기]: https://magicstream.com/
 
-[투베럴매직 유투브 채널]: [https://www.youtube.com/channel/UCBixbGO61jj7oyb-JvWnc8w]
+[투베럴매직 유투브 채널]: https://www.youtube.com/channel/UCBixbGO61jj7oyb-JvWnc8w
 
-[School of cardistry 유투브 채널]: [https://www.youtube.com/channel/UCWseT8S7GGtjVMDOiscU4CQ]
+[School of cardistry 유투브 채널]: https://www.youtube.com/channel/UCWseT8S7GGtjVMDOiscU4CQ
 
-[52Kards 유투브 채널]: [https://www.youtube.com/channel/UCIuScmttXWzLoXqs8kU3vWA]
+[52Kards 유투브 채널]: https://www.youtube.com/channel/UCIuScmttXWzLoXqs8kU3vWA
 
-[렉쳐 노트 퍼블리싱]: [http://lnmagic.co.kr/shop/main/index.php]
+[렉쳐 노트 퍼블리싱]: http://lnmagic.co.kr/shop/main/index.php
