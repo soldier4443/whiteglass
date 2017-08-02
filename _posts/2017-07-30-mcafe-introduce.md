@@ -19,4 +19,8 @@ author: "tura"
 ### 관련 자료
 
 
+<<<<<<< HEAD
 [네이버 카페 접속하기]: []
+=======
+[네이버 카페 접속하기]: [http://cafe.naver.com/devfarm]
+>>>>>>> e0af37e79f37dcad4954cff5d9383977621917a5
