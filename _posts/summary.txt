@@ -1,0 +1,2 @@
+Caligraphy Image Resize : 15% -> 70% (10.5%)
+Observation Image Resize : 10%
