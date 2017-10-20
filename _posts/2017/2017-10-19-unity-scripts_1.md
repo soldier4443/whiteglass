@@ -31,6 +31,7 @@ void OnCollisionEnter2D(Collision2D col) {
 }
 ```
 
+<br/>
 
 ### 스프라이트 색 변화
 
