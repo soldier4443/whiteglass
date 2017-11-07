@@ -7,7 +7,7 @@ author: "tura"
 
 1. `NetworkManager`에 player prefab을 등록합니다.
 
-   <img src="/images/2017/unity-network-player-movement/network-manager-spawn.png" width="280" />
+   <img src="/images/2017/unity-network-player-movement/network-manager-spawn.PNG" width="280" />
 
    <br/>
 
@@ -15,7 +15,7 @@ author: "tura"
    이 때 `NetworkIdentity`의 `Local Player Authority`를 체크해주세요.
    이것으로 로컬에서 이 오브젝트에 대한 권한을 얻을 수 있습니다.
 
-   <img src="/images/2017/unity-network-player-movement/player-components.png" width="280" />
+   <img src="/images/2017/unity-network-player-movement/player-components.PNG" width="280" />
 
    `NetworkTransform`에서 Sync mode를 설정하는 것도 잊지 마세요.
    `Sync Transform`을 선택하면 위치/회전/크기 정보만 동기화되고,
@@ -73,7 +73,7 @@ author: "tura"
 
 4. 완성! 유용하게 사용하세요~
 
-   <img src="/images/2017/unity-network-player-movement/network-player-movement-sample.png" width="800" />
+   <img src="/images/2017/unity-network-player-movement/network-player-movement-sample.PNG" width="800" />
 
    <br/>
 
