@@ -3,7 +3,7 @@ title:              Turastory
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Playground for Developers!"
 locale:             ko
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 defaults:
