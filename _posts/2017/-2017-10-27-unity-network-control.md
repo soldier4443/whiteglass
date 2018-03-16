@@ -1,8 +1,9 @@
 ---
-title: "[Unity] 네트워크 게임에서 각 클라이언트 식별 / 플레이어 제어"
+title: "[Unity] Network 제어하기"
 layout: post
 categories: unity
 author: "tura"
+excerpt: 네트워크 게임에서 각 클라이언트를 식별하고, 플레이어를 제어하는 방법을 알아봅니다.
 ---
 
 1. `NetworkManager`에 player prefab을 등록합니다.

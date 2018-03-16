@@ -3,6 +3,7 @@ title: "[Unity] Network 개념 정리"
 layout: post
 categories: unity
 author: "tura"
+excerpt: 유니티 네트워크에서 중요한 세 가지 클래스를 알아봅니다.
 ---
 
 ### NetworkBehaviour 클래스
