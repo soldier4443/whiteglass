@@ -23,13 +23,7 @@
 
 				<!-- Nav -->
 					<nav id="nav">
-
             {% include nav.html %}
-
-						<ul class="icons">
-              <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
-              <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
-						</ul>
 					</nav>
 
 				<!-- Main -->
@@ -59,7 +53,6 @@
 					<!-- Post -->
 					<section class="posts">
 						{% for post in site.posts %}
-						<!-- {% assign mod3 = forloop.index | modulo: 3 %} -->
 							<article>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
@@ -71,15 +64,16 @@
 									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
 								</ul>
 							</article>
-							<!-- {% if mod3 == 0 %}
-							<article>
-								<header>
-									<h2><a href="#">Sponsored</h2>
-								</header>
-
-							</article>
-							{% endif %} -->
+							{% if mod3 == 0 %}
+							<article/>
+							{% endif %}
 						{% endfor %}
+
+						{% assign odd = site.posts.size | modulo: 2 %}
+						{% if odd == 1 %}
+							<article class="">
+							</article>
+						{% endif %}
 
 					</section>
 
