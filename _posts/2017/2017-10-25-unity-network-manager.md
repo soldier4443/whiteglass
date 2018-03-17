@@ -4,9 +4,10 @@ layout: post
 categories: unity
 author: "tura"
 excerpt: 이번 포스트에서는 유니티에서 네트워크 작업을 쉽게 해주는 NetworkManager에 대해서 알아봅니다.
-image: "/images/2017/network_manager_thumbnail.png"
 comments: true
 ---
+
+<img src="/images/2017/network_manager_thumbnail.png" width="200" class="center"/>
 
 ### NetworkManager / NetworkManagerHUD
 
