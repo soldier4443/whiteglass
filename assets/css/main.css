@@ -1773,15 +1773,21 @@
 		border: solid 2px;
 		font-family: "Consolas", monospace;
 		font-size: 0.9rem;
-		margin: 0 0.25rem;
+		margin: 0;
 		padding: 0.25rem 0.65rem;
+	}
+
+	code.highlighter-rouge {
+		border-width: 1px;
+		padding: 0.25rem 0.25rem;
+		margin: 0 0.25rem;
 	}
 
 	pre {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Consolas", monospace;
 		font-size: 0.9rem;
-		margin: 0 0 2rem 0;
+		margin: 0 0 1rem 0;
 	}
 
 		pre code {
