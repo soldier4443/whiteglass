@@ -48,7 +48,7 @@ Glosfer Learning Day, 줄여서 GLD는 글로스퍼에서 주최하는 블록 �
 
 그래도 역시 10만원이나 받은 만큼 음식의 퀄리티는 상당하더군요.. 다음 GLD의 식사, 좀 더 기대해봐도 되겠죠?
 
-![lunch.jpg](/images/2018/gld/lunch.jpg) 
+![lunch.jpg](/images/2018/gld/lunch.jpg)
 
 
 ## Session 3: 블록 체인의 기초 (13:00 ~ 15:00)
@@ -68,7 +68,7 @@ GitHub에 올라와 있는 [MyCoin](https://github.com/leejw51/MyCoin) 저장소
 
 네 번째 세션에서는 마찬가지로 글로스퍼의 개발자이신 박정태님이 Smart Contract와 DApp을 소개해주셨습니다.
 
-![dapps.png](/images/2018/gld/dapps.png) 
+<img src="/images/2018/gld/dapps.png" alt="dapps.png" style="max-width: 100%; min-width: 100%"/>
 
 Smart Contract.. 정말 이해하기 어려운 개념이라고 느꼈습니다.
 
@@ -81,7 +81,7 @@ Smart Contract.. 정말 이해하기 어려운 개념이라고 느꼈습니다.
 
 이더리움 블록 체인에 올라와있는 Smart Contract 중에는 이런 것도 있습니다. 보시다시피, 2018년 4월에 있었던 남북 평화 협정 선언문입니다.
 
-![peace.png](/images/2018/gld/peace.png)
+<img src="/images/2018/gld/peace.png" alt="peace.png" style="max-width: 100%; min-width: 100%"/>
 
 그래서 SmartContract에 무언가 데이터를 담을 때는 개인 정보를 노출시키지 않도록 각별히 주의해야 한다고 합니다.
 
