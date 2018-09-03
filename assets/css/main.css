@@ -2452,8 +2452,8 @@
 
 		.image.fit {
 			display: block;
-			margin: 2.5rem 0;
-			width: 100%;
+			margin: 2.5rem auto;
+			max-width: 100%;
 		}
 
 			.image.fit:first-child {
