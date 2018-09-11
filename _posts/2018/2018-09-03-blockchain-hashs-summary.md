@@ -1,12 +1,12 @@
 ---
-title: "[BLOCKCHAIN] 여러 가지 Hash"
+title: "블록 체인의 Building Block: Hash"
 layout: post
 categories: blockchain
 author: "tura"
-excerpt: 헷갈리는 해시 값들. 이번에 한 번 제대로 정리해봅니다.
+excerpt: 블록 체인에서 다른 모든 것들의 기초가 되는 Hash를 알아볼까요?
 ---
 
-Hash 값에 대한 개념을 정리해보겠습니다.
+블록 체인의 근간을 이루는 Hash에 대한 개념을 정리해보았습니다.
 
 ## Hash Function
 
@@ -51,6 +51,8 @@ Hash Chain은 해시 함수의 개념을 확장한 것으로,
 어떤 데이터가 문제인지 확인했다면 문제가 있는 데이터만 다시 전송해달라고 부탁할 수 있겠죠?
 
 <img src="/images/2018/hash/sender-resends.PNG" class="image fit" style="width: 480px">
+
+<!-- TODO: 머클 트리 -->
 
 
 [hash-wikipedia]: https://ko.wikipedia.org/wiki/%ED%95%B4%EC%8B%9C_%ED%95%A8%EC%88%98
