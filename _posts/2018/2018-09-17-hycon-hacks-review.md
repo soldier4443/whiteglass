@@ -15,7 +15,7 @@ excerpt: Hycon Hacks에 다녀왔습니다.
 
 대회가 열리는 KBS 아레나홀은 9호선 가양역과 5호선 발산역 사이에 위치하고 있습니다.
 
-<img src="/images/2018/hyconhacks/kbs-arena-hall-map.png" class="image fit" style="width: 480px" alt="지도">
+<img src="/images/2018/hyconhacks/kbs-arena-hall-map.PNG" class="image fit" style="width: 480px" alt="지도">
 
 개인으로 참가한 분들은 8시 반까지 모여 팀을 구성하는 시간을 가졌고,
 나머지 분들은 9시 반까지 모이도록 되어 있었습니다. 다만 부득이하게 아침에 오기 어려워서 나중에 오는 분들도 꽤나 계셨어요.
@@ -27,7 +27,7 @@ excerpt: Hycon Hacks에 다녀왔습니다.
 
 주제는 대회 하루 전에 공개되었어요. 사회적인 이슈를 해결하는 아이디어는 이미 예상했던 것이지만요.
 
-<img src="/images/2018/hyconhacks/hycon-hacks-topics.png" class="image fit" style="width: 960px" alt="주제">
+<img src="/images/2018/hyconhacks/hycon-hacks-topics.PNG" class="image fit" style="width: 960px" alt="주제">
 
 이전에 탈중앙화 데이터 교환 플랫폼을 만들겠다고 했는데, 그게 얼마나 어려운 것인지 며칠 안가서 깨달았습니다 ㅜ_ㅜ
 
